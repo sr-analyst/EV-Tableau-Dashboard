@@ -5,10 +5,15 @@ Software Used MS- Excel Tableau
 
 Key Metrics
 
-Average Electric Range
-Total Vehicles
-Total Battery Electric Vehicle (BEV)
-Total Battery Electric Vehicle (BEV)
+
+1. Average Electric Range
+
+2. Total Vehicles
+
+3. Total Battery Electric Vehicle (BEV)
+
+4. Total Battery Electric Vehicle (BEV)
+
 Visuals
 
 Total Vehicles by Model Year
